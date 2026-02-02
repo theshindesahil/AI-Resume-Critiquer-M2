@@ -1,0 +1,18 @@
+[project]
+name = "resume-critiquer"
+version = "0.1.0"
+description = "Enter your description"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "kaleido>=1.0.0",
+    "openai>=1.106.1",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.2",
+    "plotly>=6.3.0",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.1.1",
+    "reportlab>=4.4.3",
+    "streamlit>=1.49.1",
+    "groq>=0.11.0",
+]

@@ -1,0 +1,25 @@
+# Python package requirements extracted from pyproject.toml
+# Generated for pip compatibility
+# Requires Python >= 3.14
+
+# Core dependencies
+streamlit>=1.49.1
+openai>=1.106.1
+python-dotenv>=1.1.1
+
+# AI Providers
+groq>=0.11.0
+
+# PDF processing
+pypdf2>=3.0.1
+
+# Data handling and exports
+pandas>=2.3.2
+openpyxl>=3.1.5
+
+# Visualization
+plotly>=6.3.0
+kaleido>=1.0.0
+
+# PDF generation (currently in pyproject.toml but not used in main.py)
+reportlab>=4.4.3
